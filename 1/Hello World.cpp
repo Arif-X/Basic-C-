@@ -6,5 +6,3 @@ int main(){
   cout << "I'm New in C++";
   return 0;
 }
-
-
